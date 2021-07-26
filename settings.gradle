@@ -1,2 +1,4 @@
-rootProject.name = "JeeApp"
+rootProject.name = "JeeAPP"
 include ':app'
+include ':jeebt'
+include ':Library'

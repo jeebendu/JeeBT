@@ -1,4 +1,4 @@
-package com.jee.app;
+package com.jee.jeeapp;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.jee.app", appContext.getPackageName());
+        assertEquals("com.jee.jeeapp", appContext.getPackageName());
     }
 }

@@ -1,4 +1,4 @@
-package com.jee.app;
+package com.jee.jeeapp;
 
 import org.junit.Test;
 
